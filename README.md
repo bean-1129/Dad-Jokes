@@ -1,6 +1,5 @@
 # Dad-Jokes
 
-Certainly! Here's a sample description you could use for your GitHub repository:
 
 ---
 
